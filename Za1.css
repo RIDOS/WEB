@@ -1,0 +1,40 @@
+.a1
+{
+    width: 350px;
+    height: 100px;
+    background: blue;
+    margin: 200px;
+    margin-top: 5px;
+}
+.b2
+{
+    width: 350px;
+    height: 100px;
+    background: indianred;
+    margin: 570px;
+    margin-top: -300px;
+}
+.c3
+{
+    width: 200px;
+    height: 200px;
+    background: greenyellow;
+    margin: 455px;
+    margin-top: -560px;
+}
+.d4
+{
+    width: 180px;
+    height: 240px;
+    background: firebrick;
+    margin-left: 370px;
+    margin-top: -445px;
+}
+.f5
+{
+    width: 180px;
+    height: 240px;
+    background: darkblue;
+    margin-left: 570px;
+    margin-top: -240px;
+}

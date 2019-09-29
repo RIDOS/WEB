@@ -1,0 +1,941 @@
+<!doctype html>
+<html lang="ru">
+<head>
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="initial-scale = 1.0,maximum-scale = 1.0,width=device-width">
+    <meta charset="utf-8">
+    <meta name="description" content="Современные дома из оцилиндрованного бревна без посреднических переплат по типовым и индивидуальным проектам. Любой дизайн, любая площадь. 3-х летний сервис бесплатно.
+Беседка в подарок!">
+    <meta name="format-detection" content="telephone=no">
+    <title>Экодом. Строительсктво деревянных домов из бруса.</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <!--<link rel="shortcut icon" href="images/logo.png" type="image/x-icon">-->
+    <link href="css/style.css" rel="stylesheet" type="text/css">
+
+    <!--<link href="css/basic.css" rel="stylesheet" type="text/css">
+    <link href="css/flexbox.css" rel="stylesheet" type="text/css">
+    <link href="css/landing.css" rel="stylesheet" type="text/css">
+    <link href="css/header-resp-1.css" rel="stylesheet" type="text/css">
+    <link href="css/animate.css" rel="stylesheet" type="text/css">
+    <link href="css/owl.carousel.css" rel="stylesheet" type="text/css">
+    <link href="css/owl.transitions.css" rel="stylesheet" type="text/css">
+    <link href="css/filtering.css" rel="stylesheet" type="text/css">
+    <link href="css/lightbox.css" rel="stylesheet" type="text/css">
+    <link href="css/featherlight.css" rel="stylesheet" type="text/css">
+    <link href="css/media.css" rel="stylesheet" type="text/css">
+    <script type="text/javascript" src="js/jquery.min.js"></script>-->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+    <script type="text/javascript" src="js/owl.carousel.js"></script>
+
+    <!-- <script type="text/javascript" async src="//smartcallback.ru/api/SmartCallBack.js?t=92tyJP37WezK2WSok5a9" charset="utf-8"></script>-->
+
+    <!-- Yandex.Metrika counter -->
+    <script type="text/javascript" >
+        (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
+            m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+        (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+        ym(53690179, "init", {
+            clickmap:true,
+            trackLinks:true,
+            accurateTrackBounce:true,
+            webvisor:true
+        });
+    </script>
+    <noscript><div><img src="https://mc.yandex.ru/watch/53690179" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+    <!-- /Yandex.Metrika counter -->
+
+    <!-- Facebook Pixel Code
+    <script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+    n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+    document,'script','https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '755217341250729');
+    fbq('track', 'PageView');
+
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=755217341250729&ev=PageView&noscript=1"
+    /></noscript>-->
+    <script type="text/javascript">(window.Image ? (new Image()) : document.createElement('img')).src = location.protocol + '//vk.com/rtrg?r=wM/bEetNelepAktIr5J6NhQqj98AIzBsQQLXeR14HTE4aq/NEOzPn1fIZMr24*8Ilg5x1*h7*H0ziJrkU8Wko/fqwRtQV82L4CEeI*QgBxWI4hLUExmTJg2KJ1l0zx0P4aJz/1w/RlGzVDymjq9tSK1sVPQTwjLvLiyBN/5KBZM-&pixel_id=1000046483';</script>
+
+    <script type="text/javascript">
+
+        (function() {
+
+            var ra = document.createElement('script');
+
+            ra.type = 'text/javascript';
+
+            ra.async = true;
+
+            ra.src = (('https:' == document.location.protocol ? 'https:' : 'http:')+'//webrtb.ru/ra.js?site_id=1195954');
+
+            var s = document.getElementsByTagName('script')[0];
+
+            s.parentNode.insertBefore(ra, s);
+
+        })();
+
+    </script>
+
+    <style>
+        #owl-slider .owl-carousel-overley {
+            background: rgba(63,77,96,.65);
+            height: 100%;
+            width: 100%;
+            position: absolute;
+            left: 0px;
+            top: 0px;
+            right: 0px;
+            bottom: 0px;
+            height: 100vh;
+        }
+    </style>
+
+</head>
+
+<body>
+<!--================Index================-->
+<header id="header">
+    <div class="content">
+        <h1 class="logo"><a href="#Home" title="В начало">Логотип</a></h1>
+        <a class="phone" href="tel:+79173435111">8&nbsp;(917)&nbsp;34-35-111</a>
+        <nav id="navigation">
+            <ul class="okaynav-main">
+                <li><a href="#Sample">Проекты</a></li>
+                <li><a href="#Profit">Выгода</a></li>
+
+                <li><a href="#Work">Этапы</a></li>
+                <li><a href="#Production">Производство</a></li>
+                <li><a href="#Contacts">Контакты</a></li>
+            </ul>
+        </nav>
+    </div>
+</header>
+
+<!--================HOME================-->
+<section id="Home">
+    <div id="owl-slider" class="owl-carousel">
+        <div class="item slideOne">
+            <div class="owl-carousel-overley"></div>
+        </div>
+        <div class="item slideTwo">
+            <div class="owl-carousel-overley"></div>
+        </div>
+        <div class="item slideThree">
+            <div class="owl-carousel-overley"></div>
+        </div>
+    </div>
+    <div class="section-full">
+        <div class="content-full flex flex-col flex-x-just-center flex-y-align-center">
+            <h2 class="wow <!--fadeInDown-->"> <!--data-wow-delay="0.3s"--><br>ДЕРЕВЯННЫЙ ДОМ -<br>ВАШЕ ДОЛГОЛЕТИЕ И ЗДОРОВЬЕ ВАШИХ ДЕТЕЙ</h2>
+            <div class="icons-wrap flex flex-wrap flex-x-just-between">
+                <div class="icons-item wow <!--fadeInLeft-->"> <!--data-wow-delay="0.6s"-->
+                    <div class="icon-home"></div>
+                    <div class="y-24"></div>
+                    Дома из экологичного бревна по типовым и индивидуальным проектам</div>
+                <div class="icons-item wow <!--fadeInLeft-->"> <!--data-wow-delay="0.5s"-->
+                    <div class="icon-home"></div>
+                    <div class="y-24"></div>
+                    Бесплатный 3-х летний сервис</div>
+                <div class="icons-item wow <!--fadeInRight-->"> <!--data-wow-delay="0.5s"-->
+                    <div class="icon-home"></div>
+                    <div class="y-24"></div>
+                    Индивидуальный подход и подарок для каждого клиента</div>
+                <div class="icons-item wow <!--fadeInRight-->"> <!--data-wow-delay="0.6s"-->
+                    <div class="icon-home"></div>
+                    <div class="y-24"></div>
+                    Собственное производство с 2008 года</div>
+            </div>
+            <button onclick="ym(53690179,'reachGoal','requestcall');return true;" data-featherlight="#callBack" class="btn wow <!--fadeInUp-->"> <!--data-wow-delay="0.8s"-->ЗАКАЗАТЬ ОБРАТНЫЙ ЗВОНОК</button>
+        </div>
+    </div>
+    </div>
+</section>
+
+<!--================Gallery with Filters====================-->
+<section class="discount dark">
+    <div class="content flex flex-wrap flex-x-just-around">
+        <div class="percent flex flex-col flex-x-just-between wow <!--fadeInUp-->">
+            <img src="images/fundamentpresent.jpg" width="100%" height="auto" alt=" "><br></div>
+        <h2 class="wow <!--fadeInDown-->"> <!--data-wow-delay="0.3s"-->При заключении договора на строительство дома до 31 октября</h2>
+    </div>
+    <div class="percent">
+        <div class="section-title wow fadeInDown">Фундамент<br>
+            <span>бесплатно!</span></div>
+
+
+        <p>* <em class="greytxt">подробности акции уточняйте у менеджеров в отделе продаж</em></p></div>
+    </div>
+</section>
+
+<section id="Sample">
+    <div class="content">
+        <div class="wrap flex flex-col flex-x-just-center flex-y-align-center">
+            <div>
+                <h2>Современные дома из оцилиндрованного бревна<br>
+                    Отточенные технологии для жизни</h2>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="Filter">
+    <div class="wrap">
+        <ul class="simplefilter ac">
+            <li class="active" data-filter="all">Все дома</li>
+            <li data-filter="1">До 150 метров<sup>2</sup></li>
+            <li data-filter="2">До 200 метров<sup>2</sup></li>
+            <li data-filter="3">Более 200 метров<sup>2</sup></li>
+        </ul>
+        <div class="content">
+            <div class="filtr-container flex flex-wrap">
+                <div class="filtr-item" data-category="1">
+                    <div class="hover"><a href="shuya.shtml" title="Подробнее"><img class="img-responsive" src="images/project/shuya/08-4.jpg" alt="Дом «Шуя»"><div class="giftplace gift-hit"></div></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Шуя»</strong><br>
+                                <span>Площадь:</span>&nbsp;114.71&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;099&nbsp;999&nbsp;руб.</strong></p>
+                            <a onclick="ym(53690179,'reachGoal','more1');return true;" href="shuya.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="2">
+                    <div class="hover"><a href="suzdal.shtml" title="Подробнее"><img class="img-responsive" src="images/project/suzdal/17-2.jpg" alt="Суздаль"><div class="giftplace gift-hit"></div></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Суздаль»</strong><br>
+                                <span>Площадь:</span>&nbsp;164.3&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;599&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="suzdal.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="3">
+                    <div class="hover"><a href="vyborg.shtml" title="Подробнее"><img class="img-responsive" src="images/project/vyborg/01.jpg" alt="Дом «Выборг»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Выборг»</strong><br>
+                                <span>Площадь:</span>&nbsp;294.7&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;2&nbsp;999&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="vyborg.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="3">
+                    <div class="hover"><a href="vladimir.shtml" title="Подробнее"><img class="img-responsive" src="images/project/vladimir/07-2.jpg" alt="Дом «Владимир»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Владимир»</strong><br>
+                                <span>Площадь:</span>&nbsp;245.4&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;999&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="vladimir.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="1">
+                    <div class="hover"><a href="alexandrov.shtml" title="Подробнее"><img class="img-responsive" src="images/project/aleksandrov/01.jpg" alt="Дом «Александров»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Александров»</strong><br>
+                                <span>Площадь:</span>&nbsp;121.3&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;199&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="alexandrov.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="2">
+                    <div class="hover"><a href="plyos.shtml" title="Подробнее"><img class="img-responsive" src="images/project/plyos/06.jpg" alt="Дом «Плёс»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Плёс»</strong><br>
+                                <span>Площадь:</span>&nbsp;199.48&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;2&nbsp;339&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="plyos.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="2">
+                    <div class="hover"><a href="vologda.shtml" title="Подробнее"><img class="img-responsive" src="images/project/vologda/47-01.jpg" alt="Дом «Вологда»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Вологда»</strong><br>
+                                <span>Площадь:</span>&nbsp;186.58&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;699&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="vologda.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+                <!--<div class="filtr-item" data-category="2">
+                  <div class="hover"><a href="paleh.shtml" title="Подробнее"><img class="img-responsive" src="images/project/paleh/01.jpg" alt="Дом «Палех»"></a>
+                    <div class="hover-bot">
+                      <p><strong>Дом&nbsp;«Палех»</strong><br>
+        <span>Площадь:</span>&nbsp;153.3&nbsp;м<sup>2</sup></p>
+                      <p><strong>от&nbsp;999&nbsp;000&nbsp;руб.</strong></p>
+                      <a href="paleh.shtml" class="btn">Подробнее</a></div>
+                  </div>
+                      </div>-->
+
+                <div class="filtr-item" data-category="3">
+                    <div class="hover"><a href="gorodets.shtml" title="Подробнее"><img class="img-responsive" src="images/project/gorodets/02.jpg" alt="Дом «Городец»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Городец»</strong><br>
+                                <span>Площадь:</span>&nbsp;254.38&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;839&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="gorodets.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="1">
+                    <div class="hover"><a href="ivanovo.shtml" title="Подробнее"><img class="img-responsive" src="images/project/ivanovo/01.jpg" alt="Дом «Иваново»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Иваново»</strong><br>
+                                <span>Площадь:</span>&nbsp;138.6&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;399&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="ivanovo.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="2">
+                    <div class="hover"><a href="rostov.shtml" title="Подробнее"><img class="img-responsive" src="images/project/rostov/09-06.jpg" alt="Дом «Ростов»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Ростов»</strong><br>
+                                <span>Площадь:</span>&nbsp;194.86&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;2&nbsp;299&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="rostov.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="2">
+                    <div class="hover"><a href="murom.shtml" title="Подробнее"><img class="img-responsive" src="images/project/murom/01.jpg" alt="Дом «Муром»"><div class="giftplace gift-hit"></div></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Муром»</strong><br>
+                                <span>Площадь:</span>&nbsp;183.6&nbsp;м<sup>2</sup></p>
+                            <p><strong>от&nbsp;1&nbsp;949&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="murom.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="2">
+                    <div class="hover"><a href="uglich.shtml" title="Подробнее"><img class="img-responsive" src="images/project/uglich/01.jpg" alt="Дом «Углич»"></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Углич»</strong><br>
+                                <span>Площадь:</span>&nbsp;189.07&nbsp;м<sup>2</sup>
+                            <p><strong>от&nbsp;1&nbsp;719&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="uglich.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="1">
+                    <div class="hover"><a href="kolomna.shtml" title="Подробнее"><img class="img-responsive" src="images/project/kolomna/01.jpg" alt="Дом «Коломна»"><div class="giftplace gift-price"></div></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Коломна»</strong><br>
+                                <span>Площадь:</span>&nbsp;59,33&nbsp;м<sup>2</sup>
+                            <p><strong>от&nbsp;709&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="kolomna.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="1">
+                    <div class="hover"><a href="smolensk.shtml" title="Подробнее"><img class="img-responsive" src="images/project/smolensk/01.jpg" alt="Дом «Смоленск»"><div class="giftplace gift-price"></div></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Смоленск»</strong><br>
+                                <span>Площадь:</span>&nbsp;101.92&nbsp;м<sup>2</sup>
+                            <p><strong>от&nbsp;1&nbsp;169&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="smolensk.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="2">
+                    <div class="hover"><a href="novgorod.shtml" title="Подробнее"><img class="img-responsive" src="images/project/novgorod/01.jpg" alt="Дом «Новгород»"><div class="giftplace gift-price"></div></a>
+                        <div class="hover-bot">
+                            <p><strong>Дом&nbsp;«Новгород»</strong><br>
+                                <span>Площадь:</span>&nbsp;169.1&nbsp;м<sup>2</sup>
+                            <p><strong>от&nbsp;1 319&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="novgorod.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+                <div class="filtr-item" data-category="1">
+                    <div class="hover"><a href="banya.shtml" title="Подробнее"><img class="img-responsive" src="images/project/banya/01.jpg" alt="Баня"></a>
+                        <div class="hover-bot">
+                            <p><strong>Баня</strong><br>
+                                <span>Площадь:</span>&nbsp;30.32&nbsp;м<sup>2</sup>
+                            <p><strong>от&nbsp;399&nbsp;000&nbsp;руб.</strong></p>
+                            <a href="banya.shtml" class="btn">Подробнее</a></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</section>
+<!--Global Feedback-->
+<section class="global">
+    <div class="content global-bg flex flex-wrap flex-x-just-between flex-y-align-stretch">
+        <!--<div class="percent gift ac"><span class="before">ДО</span><br>
+<span class="date">1</span><br>
+МАРТА</div>-->
+        <div class="percent gift-fund ac">
+            <span class="date">15%</span></div>
+        <div class="percent flex flex-x-just-center flex-y-align-center">
+            <div><h3>Не нашли подходящего проекта? </h3>
+                <p>Наш внимательный менеджер выслушает все ваши индивидуальные пожелания и поможет создать проект вашего идеального дома!</p>
+                <p>В течение часа у вас под рукой будет смета Дома Вашей Мечты!</p>
+                <button onclick="ym(53690179,'reachGoal','projectcalculate');return true;" data-featherlight="#feedBack" class="btn">РАССЧИТАТЬ ПРОЕКТ</button>
+                <div class="y-16"></div>
+            </div>
+        </div>
+    </div>
+</section>
+<section id="Interiors" class="grey">
+    <div class="section-title">Интерьеры
+        <p><span style="color: #333;">Внутреннюю отделку деревянного дома можно реализовать как в классическом, так и в современном стиле</span><br>
+            Каким будет Ваш дом решаете Вы!</p></div>
+    <div class="y-20"></div>
+
+    <div id="owl-interiors" class="owl-production">
+        <div class="item"><a href="images/production/001.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/001.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/002.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/002.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/003.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/003.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/004.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/004.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/005.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/005.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/006.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/006.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/007.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/007.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/008.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/008.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/009.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/009.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/010.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/010.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/011.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/011.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/012.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/012.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/013.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/013.jpg" alt=""></a></div>
+        <div class="item"><a href="images/production/014.jpg" data-lightbox="interior" data-title="Интерьеры"><img src="images/production/014.jpg" alt=""></a></div>
+    </div>
+    <div class="y-20"></div>
+    <p class="ac content">Мы рады предложить Вам высококачественный экологически чистый лес, профессиональную команду проектировщиков и строителей, серьезную гарантию на все виды работ.</p>
+    <div class="y-32"></div>
+</section>
+
+<!--================Диаметр================-->
+<section id="brevno">
+    <div class="content flex flex-col flex-x-just-around">
+        <div class="section-title">Диаметр имеет значение</div>
+        <div class="wrap flex flex-wrap flex-x-just-between">
+            <div class="percent flex flex-col flex-x-just-between wow <!--fadeInUp-->"> <!--data-wow-delay="0.1s"-->
+                <div class="icon flex flex-x-just-center flex-y-align-center"><strong>&lt;&nbsp;18&nbsp;D</strong></div>
+                <div class="y-20"></div>
+                <p class="ac">Беседки, навесы, гаражи, летние сооружения и хоз. постройки</p>
+            </div>
+
+            <div class="percent flex flex-col flex-x-just-between wow <!--fadeInUp-->"> <!--data-wow-delay="0.3s"-->
+                <div class="icon flex flex-x-just-center flex-y-align-center"><strong>18-22&nbsp;D</strong></div>
+                <div class="y-20"></div>
+                <p class="ac">Бани, дачи,<br>
+                    летние дома</p>
+            </div>
+
+            <div class="percent flex flex-col flex-x-just-between wow <!--fadeInUp-->"> <!--data-wow-delay="0.5s"-->
+                <div class="icon flex flex-x-just-center flex-y-align-center"><strong>22-28&nbsp;D</strong></div>
+                <div class="y-20"></div>
+                <p class="ac">Дома для круглогодичного проживания</p>
+            </div>
+
+            <div class="percent flex flex-col flex-x-just-between wow <!--fadeInUp-->"> <!--data-wow-delay="0.7s"-->
+                <div class="icon flex flex-x-just-center flex-y-align-center">&gt;&nbsp;28&nbsp;D</div>
+                <div class="y-20"></div>
+                <p class="ac">Высокопрочные дома с оригинальной архитектурой</p>
+            </div>
+        </div>
+        <div class="ac"><button onclick="ym(53690179,'reachGoal','helpchoice');return true;" data-featherlight="#callBack" class="btn">Мы поможем сделать выбор!</button>
+            <div class="y-16"></div>
+        </div>
+    </div>
+</section>
+
+<!--================Выгода================-->
+<section id="Profit" class="dark">
+    <div class="content">
+        <div class="section-title">Реальная выгода
+            <p>Оцените объем бесплатно предоставляемых услуг нашим клиентам в рамках пакета услуг<br>«Все включено»</p></div>
+
+        <div class="flex flex-wrap flex-x-just-between">
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="0.1s"--><img src="images/p-01.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Разработка индивидуального проекта
+                <div class="y"></div>
+            </div>
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="0.3s"--><img src="images/p-02.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Экологическая экспертиза материалов
+                <div class="y"></div>
+            </div>
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="0.5s"--><img src="images/p-03.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Уборка территории и вывоз строительного мусора
+                <div class="y"></div>
+            </div>
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="0.7s"--><img src="images/p-04.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Авторский надзор и личный прораб
+                <div class="y"></div>
+            </div>
+
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="0.9s"--><img src="images/p-05.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Доставка до места стройки в пределах Республики Башкортостан
+                <div class="y"></div>
+            </div>
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="1.1s"--><img src="images/p-06.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Курьер и услуги такси
+                <div class="y"></div>
+            </div>
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="1.3s"--><img src="images/p-07.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Уборка дома после отделки: мытье окон, влажная уборка
+                <div class="y"></div>
+            </div>
+            <div class="item wow <!--fadeInUp-->"> <!--data-wow-delay="1.5s"--><img src="images/p-08.png" width="62" height="49" alt="" class="left">
+                <div class="clear"></div>
+                Услуги нотариуса
+                <div class="y"></div>
+            </div>
+        </div>
+        <div class="ac"><button onclick="ym(53690179,'reachGoal','projectorder2');return true;" data-featherlight="#callBack" class="btn">Оставить заявку!</button>
+            <div class="y-16"></div>
+        </div>
+    </div>
+</section>
+
+<!--================Акция================
+<section id="Action">
+<div class="section-title">Спецпредложения на дома «под ключ»</div>
+  <div class="content flex flex-wrap flex-x-just-center">
+	<div class="filtr-item">
+		<div class="hover"><a href="suzdal-act.shtml" title="Подробнее"><img class="img-responsive" src="images/project/suzdal/17-1.jpg" alt="Cуздаль"><div class="giftplace gift-act"></div></a>
+		<div class="hover-bot">
+			<p><strong>Дом&nbsp;«Cуздаль»</strong><br>
+<span>Площадь:</span>&nbsp;164,3&nbsp;м<sup>2</sup></p>
+			<p><strong>4&nbsp;000&nbsp;000&nbsp;руб.</strong></p>
+			<a href="suzdal-act.shtml" class="btn">Подробнее</a></div>
+		</div>
+	</div>
+
+	<div class="filtr-item">
+		<div class="hover"><a href="kolomna-act.shtml" title="Подробнее"><img class="img-responsive" src="images/project/kolomna/01.jpg" alt="Коломна"><div class="giftplace gift-act"></div></a>
+		<div class="hover-bot">
+			<p><strong>Дом&nbsp;«Коломна»</strong><br>
+<span>Площадь:</span>&nbsp;59,33&nbsp;м<sup>2</sup></p>
+			<p><strong>1&nbsp;000&nbsp;000&nbsp;руб.</strong></p>
+			<a href="kolomna-act.shtml" class="btn">Подробнее</a></div>
+		</div>
+	</div>
+
+	<div class="filtr-item">
+		<div class="hover"><a href="smolensk-act.shtml" title="Подробнее"><img class="img-responsive" src="images/project/smolensk/01.jpg" alt="Смоленск"><div class="giftplace gift-act"></div></a>
+		<div class="hover-bot">
+			<p><strong>Дом&nbsp;«Смоленск»</strong><br>
+<span>Площадь:</span>&nbsp;101,92&nbsp;м<sup>2</sup></p>
+			<p><strong>2&nbsp;000&nbsp;000&nbsp;руб.</strong></p>
+		  <a href="smolensk-act.shtml" class="btn">Подробнее</a></div>
+		</div>
+	</div>
+
+    <div class="filtr-item">
+		<div class="hover">
+			<div class="service360 grey">
+				<h1>Пакет «Сервис 360»</h1>
+				<div>
+					<p>Разработка индивидуального проекта</p>
+					<p>Экологическая экспертиза материалов</p>
+					<p>Личный прораб</p>
+					<p>Доставка до места стройки в пределах всей Московской области</p>
+					<p>Уборка территории и вывоз строительного мусора</p>
+					<p>Авторский надзор</p>
+					<p>Курьер</p>
+					<p>Услуги нотариуса</p>
+					<p>Уборка дома после отделки: мытье окон, влажная уборка</p>
+					<p>Такси</p>
+					<p>Разборка старых строений на территории стройки и вывоз мусора</p>
+					</div>
+			</div>
+		</div>
+    </div>
+  </div>
+</section>-->
+<!--Global Feedback-->
+<section id="Build" class="grey">
+    <div class="section-title">Этапы строительства
+        <p>Индивидуальный подход к строительству каждого дома</p></div>
+    <div class="content">
+        <p class="ac">Сроки строительства зачастую зависят от времени года, степени готовности земельного участка, наличия хороших подъездных путей к объекту строительства. По этой причине, указанные ниже сроки являются ориентировочными и могут быть изменены в целях соблюдения всех технологических требований, которые необходимы для постройки качественного и долговечного дома.</p>
+        <div class="flex flex-wrap flex-x-just-between">
+            <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="0.2s"-->
+                <h2>Первый Этап</h2>
+                <p>1-2 месяца</p>
+                <div class="y-16"></div>
+                <p>строительство фундамента</p>
+                <p>сборка стенового комплекта</p>
+                <p>монтаж стропильной системы</p>
+                <p>монтаж кровли *</p>
+                <div class="y-32"></div>
+                * <em>по желанию заказчика возможен монтаж временной кровли</em>
+            </div>
+            <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="0.6s"-->
+                <h2>Второй Этап</h2>
+                <p>1-5 месяца (в зависимости от времени года)</p>
+                <div class="y-16"></div>
+                <p>установка дверей</p>
+                <p>установка окон</p>
+                <p>конопатка</p>
+                <p>монтаж пола, потолка, межэтажное утепление</p>
+                <p>разводка инженерных коммуникаций</p>
+                <div class="y-36"></div>
+            </div>
+            <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="1.0s"-->
+                <h2>Третий Этап</h2>
+                <p>1-4 месяцев (в зависимости от времени года)</p>
+                <div class="y-16"></div>
+                <p>финишное покрытие стен</p>
+                <p>монтаж лестницы</p>
+                <p>установка сантехники, приборов обогрева, розеток и выключателей</p>
+                <p>обустройство отмостки</p>
+            </div>
+        </div>
+        <p class="ac">В среднем строительство дома полностью готового для постоянного проживания занимает около 1 года.</p>
+        <div class="y-48"></div>
+    </div>
+</section>
+<!--
+<section class="global">
+
+  <div class="content flex flex-wrap flex-x-just-between flex-y-align-stretch">
+
+          <!--<div class="percent gift ac"><span class="before">ДО</span><br>
+<span class="date">31</span><br>
+ДЕКАБРЯ</div>-->
+<!--<div class="percent gift-fund ac">
+<span class="date">50%</span></div>
+			<div class="percent flex flex-x-just-center flex-y-align-center">
+				<div><h3>Все еще сомневаетесь в выборе?</h3>
+				<p>Наш менеджер готов подобрать для вас индивидуальное решение прямо сейчас.<br>
+Получите смету дома Вашей мечты в течение часа!</p>
+<button data-featherlight="#feedBack" class="btn">РАССЧИТАТЬ ПРОЕКТ</button></div>
+			</div>
+	</div>
+	<div class="y-56"></div>
+</section>
+
+
+<!--================Работа================-->
+<section id="Work" class="dark"<div="" style="">
+<div class="content">
+    <div class="section-title">Этапы работы
+        <p class="ac">Сделайте несколько простых шагов на пути к дому своей мечты!</p></div>
+    <div class="wrap flex flex-wrap flex-x-just-between">
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="0.1s"-->
+            <p class="ac"><img src="images/z01.png" alt=""></p>
+            1.&nbsp;Встреча
+            <div class="y-56"></div></div>
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="0.3s"-->
+            <p class="ac"><img src="images/z02.png" alt=""></p>
+            2.&nbsp;Составление сметы
+            <div class="y-56"></div></div>
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="0.5s"-->
+            <p class="ac"><img src="images/z03.png" alt=""></p>
+            3.&nbsp;Заключение договора
+            <div class="y-56"></div></div>
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="0.7s"-->
+            <p class="ac"><img src="images/z04.png" alt=""></p>
+            4.&nbsp;Проект
+            <div class="y-56"></div></div>
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="0.9s"-->
+            <p class="ac"><img src="images/z05.png" alt=""></p>
+            5.&nbsp;Производство
+            <div class="y-56"></div></div>
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="1.1s"-->
+            <p class="ac"><img src="images/z06.png" alt=""></p>
+            6.&nbsp;Монтаж
+            <div class="y-56"></div></div>
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="1.3s"-->
+            <p class="ac"><img src="images/z07.png" alt=""></p>
+            7.&nbsp;Отделка
+            <div class="y-56"></div></div>
+        <div class="percent wow <!--fadeInUp-->"> <!--data-wow-delay="1.5s"-->
+            <p class="ac"><img src="images/z08.png" alt=""></p>
+            8.&nbsp;Гарантийное обслуживание
+            <div class="y-56"></div></div>
+    </div>
+</div>
+</section>
+
+<section id="Production">
+    <div class="section-title">При заключении договора на строительство дома до 31 октября
+        <p>Наша команда занимается производством оцилиндрованного бревна и строительством домов с 2008 года</p></div>
+    <center>
+        <div class="flex flex-wrap flex-x-just-between">
+            <div class="percent wow <!--fadeInUp-->">
+                <img src="images/proektpresent.jpg" width="100%" height="auto" alt=" " style= "margin-left: 5%"><br></div>
+    </center> </div>
+
+</section>
+
+<!--Global Feedback-->
+<section class="global">
+    <div class="content">
+        <div class="wrap">
+            <p class="ac">Мы рады предложить Вам высококачественный экологически чистый лес, профессиональную команду проектировщиков и строителей, серьезную гарантию на все виды работ, высокий уровень сервиса и цены ниже, чем у конкурентов, просто потому, что мы работаем без посредников! От лесозаготовки до сервисного обслуживания!</p>
+            <p class="ac redtxt">Проект - это производственно-строительная документация</p>
+            <div class="y-16"></div>
+            <div class="ac"><button onclick="ym(53690179,'reachGoal','prodactioncall');return true;" data-featherlight="#callBack" class="btn">Заказать звонок</button></div>
+            <div class="y-32"></div>
+        </div>
+    </div>
+</section>
+
+
+
+<!--================Contacts================-->
+<section id="Contacts" class="dark">
+    <div class="section-title">Наши контакты</div>
+    <div class="content">
+        <div class="wrap flex flex-wrap flex-x-just-between">
+            <div class="percent">
+                <p>ООО "ЭкоДом 102"<br></p>
+                <p><span>Офис</span>
+                    Уфа, Гафури, 77, офис 213</p>
+                <!--<p><span>Офис-2 / склад</span>
+                МО, Химки, квартал Клязьма, дом 1а</p>-->
+                <p><span>Контакты</span>
+                    Email: <a href="mailto:ksa-ecohome@mail.ru">ksa-ecohome@mail.ru</a><br>
+                    <a class="phone_footer" href="tel:+79173435111">Тел.: 8 (917) 34-35-111</a><br>
+                    <a class="phone_footer" href="tel:+73472210666">8 (347) 221-06-66</a><br>
+                    <!--<a href="tel:+78003011718">бесплатный звонок</a></p>-->
+                <p><span>Режим работы</span>
+                    пн-пт: с 09:00 до 18:00<br>
+                    сб: с 09:00 до 15:00<br>
+                    вс: выходной</p>
+            </div>
+            <div class="percent">
+                <div class="video">
+                    <script type="text/javascript" charset="utf-8" async src="https://api-maps.yandex.ru/services/constructor/1.0/js/?sid=WclJaBw0rLqxgHJWJK627sIFirrgTFAg&amp;width=804&amp;height=465&amp;lang=ru_RU&amp;sourceType=constructor&amp;scroll=true"></script>
+                </div>
+
+                <div class="social flex flex-x-just-between">
+                    <!--<a href="#" class="youtube"></a>-->
+                    <span>Мы в соцсетях</span>
+                    <a href="https://www.facebook.com/" target="_blank" class="facebook"></a>
+                    <a href="https://vk.com/" target="_blank" class="vcontact"></a>
+                    <a href="https://www.instagram.com/" target="_blank" class="instagr"></a>
+                    <!--<a href="#" class="twitter"></a>-->
+                </div>
+
+            </div>
+            <div class="y-32"></div>
+
+        </div>
+    </div>
+</section>
+
+<!--Modal Feedback -->
+<div id="feedBack">
+    <h2>Рассчитать проект</h2>
+    <form>
+
+        <input type="hidden" name="project_name" value="ЭкоДом">
+        <input type="hidden" name="admin_email" value="ecodom-zayavka@yandex.ru">
+        <input type="hidden" name="form_subject" value="Заказ проекта">
+        <div class="wrap flex flex-wrap flex-x-just-between">
+            <div class="percent">
+                <label>Имя</label>
+                <input name="Имя" type="text" class="textbox" required autofocus>
+            </div></div>
+        <div class="wrap flex flex-wrap flex-x-just-between">
+            <div class="percent">
+                <label>Email</label>
+                <input name="Email" class="textbox" type="email" required>
+            </div></div>
+        <div class="wrap flex flex-wrap flex-x-just-between">
+            <div class="percent">
+                <label>Телефон</label>
+                <input name="Телефон" class="textbox" type="tel" required>
+            </div>
+        </div>
+        <button onclick="ym(53690179,'reachGoal','send');return true;" name="submit" class="btn right" type="submit">Отправить</button>
+    </form>
+</div>
+<!-- Callback -->
+
+<div id="callBack">
+    <h2>Заказать обратный звонок</h2>
+    <form>
+        <script type="text/javascript" src="js/jquery.maskedinput.js"></script>
+        <script type="text/javascript">
+            jQuery(function($){
+                $("#tel").mask("+7 (999) 999-9999");
+            });
+        </script>
+
+        <input type="hidden" name="project_name" value="ЭкоДом">
+        <input type="hidden" name="admin_email" value="ecodom-zayavka@yandex.ru">
+        <input type="hidden" name="form_subject" value="Заказ звонка с сайта">
+        <div class="wrap flex flex-wrap flex-x-just-between" >
+            <div class="percent">
+                <label>Имя</label>
+                <input name="Имя" type="text" class="textbox" required autofocus>
+            </div> </div>
+        <div class="wrap  flex flex-wrap flex-x-just-between" >
+            <div class="percent">
+                <label>Телефон</label>
+                <input id="tel" name="Телефон" class="textbox" type="tel" required>
+
+            </div>
+        </div>
+        <button onclick="ym(53690179,'reachGoal','send');return true;" name="submit" class="btn right" type="submit">Отправить</button>
+    </form>
+</div>
+
+<!--<script src="script.js"></script>-->
+<script type="text/javascript" src="js/okayNav-min.js"></script>
+<script type="text/javascript" src="js/scrolling.js"></script>
+<script type="text/javascript" src="js/jquery.filterizr.js"></script>
+<script type="text/javascript" src="js/filter-controls.js"></script>
+<script type="text/javascript" src="js/lightbox.min.js"></script>
+<script type="text/javascript" src="feedback.js"></script>
+<script type="text/javascript" src="js/featherlight.min.js"></script>
+
+
+
+<!--Adaptive Menu-->
+<script type="text/javascript">
+    document.addEventListener('DOMContentLoaded', function () {
+        new OkayNav(document.getElementById('navigation'));
+    });
+</script>
+<!--Owl Slider-->
+<script type="text/javascript">
+    $("#owl-slider").owlCarousel({
+
+        navigation : false, // Show next and prev buttons
+        pagination : true,
+        slideSpeed : 300,
+        paginationSpeed : 400,
+        autoPlay : true,
+        singleItem:true,
+        transitionStyle : "fade"
+
+    });
+</script>
+<!--Filtering-->
+<script type="text/javascript">
+    $(function() {
+        //Initialize filterizr with default options
+        $('.filtr-container').filterizr();
+    });
+</script>
+<!--Owl Carousel-->
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        $(".owl-production").owlCarousel({
+
+            navigation : false,
+            autoPlay: 3000, //Set AutoPlay to 3 seconds
+
+            items : 4,
+            itemsDesktop : [1199,3],
+            itemsDesktopSmall : [979,3],
+
+        });
+
+    });
+</script>
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        $("#owl-diploma").owlCarousel({
+
+            navigation : false,
+            autoPlay: 3000, //Set AutoPlay to 3 seconds
+
+            items : 6,
+            itemsDesktop : [1199,6],
+            itemsDesktopSmall : [979,3],
+
+        });
+
+    });
+</script>
+<!--<script type="text/javascript" src="js/wow.min.js"></script>
+<!--Scrolling Animation-->
+<!-- <script type="text/javascript">
+     new WOW().init();
+</script> -->
+
+
+<!--Google--><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-91651625-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+<!--/Google-->
+<!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+    (function (d, w, c) {
+        (w[c] = w[c] || []).push(function() {
+            try {
+                w.yaCounter46845387 = new Ya.Metrika({
+                    id:46845387,
+                    clickmap:true,
+                    trackLinks:true,
+                    accurateTrackBounce:true
+                });
+            } catch(e) { }
+        });
+
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script"),
+            f = function () { n.parentNode.insertBefore(s, n); };
+        s.type = "text/javascript";
+        s.async = true;
+        s.src = "https://mc.yandex.ru/metrika/watch.js";
+
+        if (w.opera == "[object Opera]") {
+            d.addEventListener("DOMContentLoaded", f, false);
+        } else { f(); }
+    })(document, window, "yandex_metrika_callbacks");
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/46845387" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<!-- {/literal} END JIVOSITE CODE -->
+
+
+<!-- easing plugin ( optional ) -->
+<script src="js/easing.js" type="text/javascript"></script>
+<!-- UItoTop plugin -->
+<script src="js/jquery.ui.totop.js" type="text/javascript"></script>
+<!-- Starting the plugin -->
+<script type="text/javascript">
+    $(document).ready(function() {
+
+        var defaults = {
+            containerID: 'toTop', // fading element id
+            containerHoverID: 'toTopHover', // fading element hover id
+            scrollSpeed: 1200,
+            easingType: 'linear'
+        };
+
+
+        $().UItoTop({ easingType: 'easeOutQuart' });
+
+    });
+</script>
+<link rel="stylesheet" href="https://cdn.envybox.io/widget/cbk.css">
+
+<script type="text/javascript" src="https://cdn.envybox.io/widget/cbk.js?cbk_code=a8e46dff6bc42eaebdd5b3bd88814977" charset="UTF-8" async></script>
+
+
+</body>
+</html>

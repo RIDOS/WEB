@@ -10,11 +10,16 @@
     init();
 
     const numberOfRings = 3;
-    const ringRadiusOffset = 7;
-    const ringsRadius = 200;
+    let ringRadiusOffset = 7;
+    let ringsRadius = 200;
     const wavesOfSet = 15;
     const colors = ['#ff1122','#bb1122', '#ff1122'];
     let startAngle = 0;
+
+    if (cnv.width <= 425) {
+        ringsRadius = 120;
+        ringRadiusOffset = 4;
+    }
 
     function updateRings() {
         for (let i = 0; i < numberOfRings; i++) {
